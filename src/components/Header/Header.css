@@ -18,8 +18,8 @@
 }
 
 .header-container-expanded {
-    max-width: 400px;
-    min-width: 390px;
+    max-width: 325px;
+    min-width: 300px;
 }
 
 .header-container-contracted {
