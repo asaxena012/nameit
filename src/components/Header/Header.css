@@ -1,0 +1,36 @@
+.header-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.header-image {
+    width: 400px;
+    transition: all 1s;
+}
+
+.header-text {
+    font-size: 250%;
+    color: #1f2937;
+    margin: 10px 0px 15px 0px;
+    transition: all 1s;
+}
+
+.header-container-expanded {
+    max-width: 400px;
+    min-width: 390px;
+}
+
+.header-container-contracted {
+    max-width: 150px;
+    min-width: 140px;
+}
+
+.header-text-expanded {
+    font-size: 250%;
+}
+
+.header-text-contracted {
+    font-size: 150%;
+}

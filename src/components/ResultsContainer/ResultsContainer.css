@@ -1,0 +1,7 @@
+.results-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px 40px;
+    color: #1f2937;
+}
